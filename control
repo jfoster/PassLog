@@ -1,0 +1,9 @@
+Package: com.rave.passlog
+Name: PassLog
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Log Passcode entries to /var/tmp/pass.log
+Maintainer: Jacob Foster <jacobfoster@pm.me>
+Author: Jacob Foster <jacobfoster@pm.me>
+Section: Tweaks
